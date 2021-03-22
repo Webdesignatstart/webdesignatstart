@@ -151,7 +151,7 @@ p{
 /* Showcase */
 
 #showcase{
-    background: url("/img/showcase-2.jpg") no-repeat center center/cover;
+    background: url("../img/showcase-2.jpg") no-repeat center center/cover;
     height: 600px;
 }
 
@@ -193,7 +193,7 @@ p{
 
 #home-info .info-img{
     float: left;
-    background: url("/img/photo-1.jpg") no-repeat center center/cover;
+    background: url("../img/photo-1.jpg") no-repeat center center/cover;
     width: 50%;
     min-height: 100%;
 }
@@ -236,7 +236,7 @@ p{
 
 #testimonials{
     height: 100%;
-    background: url(/img/test-bg.jpg) no-repeat center center/cover;
+    background: url("../img/test-bg.jpg") no-repeat center center/cover;
     padding-top: 100px;
 }
 
@@ -293,8 +293,8 @@ p{
 /* Login */
 
 #login{
-    height: 100vh;
-    background: url(/img/showcase-1.jpg) no-repeat center center/cover;
+    height: 88vh;
+    background: url("../img/showcase-1.jpg") no-repeat center center/cover;
     padding-top: 150px;
 }
 
@@ -352,8 +352,8 @@ p{
 /* Register */
 
 #sign-up{
-    height: 850px;
-    background: url(/img/showcase-1.jpg) no-repeat center center/cover;
+    height: 88vh;
+    background: url("../img/showcase-1.jpg") no-repeat center center/cover;
     padding-top: 100px;
 }
 
